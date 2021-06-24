@@ -55,7 +55,9 @@ public class View extends Activity {
             @Override
             public void onClick(android.view.View view) {
 
-
+                Uri address = Uri.parse("https://www.google.ru/");
+                Intent  intent = new Intent(Intent.ACTION_VIEW, address);
+                startActivity( intent);
 
 
             }
