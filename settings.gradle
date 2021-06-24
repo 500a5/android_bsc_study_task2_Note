@@ -1,0 +1,2 @@
+rootProject.name = "taske2_Note"
+include ':app'
