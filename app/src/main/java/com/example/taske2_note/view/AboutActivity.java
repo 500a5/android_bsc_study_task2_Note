@@ -9,7 +9,7 @@ import com.example.taske2_note.R;
 
 import static android.content.ContentValues.TAG;
 
-public class View2 extends AppCompatActivity {
+public class AboutActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
